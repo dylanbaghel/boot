@@ -1,0 +1,86 @@
+.btn-primary {
+    background: #313461;
+    border-color: #313461;
+}
+
+.jumbotron {
+    background: #333 url("../img/bg.jpg") -400px -200px;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: 5px #f4f4f4 solid;
+    padding: 0 60px 40px 60px;
+}
+
+.jumbotron h1 {
+    margin: 60px 0 30px 0;
+}
+
+.jumbotron p.lead {
+    font-size: 1.5rem;
+    margin-bottom: 60px;
+}
+
+.navbar a{
+    color: #ffffff;
+    margin-bottom: 3px;
+}
+
+.navbar a:hover {
+    background: none; !important;
+    border-bottom: 3px solid #ffffff;
+    margin-bottom: 0;
+}
+
+#index-card .card {
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 20px;
+    background: lightgrey;
+}
+
+#about-card .card-header {
+    background: #f1f1f1;
+}
+
+.card .fas, .fab {
+    font-size: 50px;
+    margin: 10px 0;
+}
+
+.section-a {
+    background: #313461;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.section-a h1 {
+    font-size: 50px;
+}
+
+.img-width {
+    width: 100%;
+}
+
+.main-footer {
+    background: lightgrey;
+    padding: 50px;
+    margin-top: 5rem;
+}
+
+.sidebar-card {
+    background: #f1f1f1;
+}
+
+#accordion button {
+    color: black;
+    text-decoration: none;
+}
+#accordion button:hover {
+    text-decoration: none;
+}
+
+
+
+
